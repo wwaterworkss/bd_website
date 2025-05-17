@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-black h-full w-full bg-[url(/assets/images/8.jpg)] bg-cover bg-center flex flex-col justify-end items-center">
+  <div class="bg-[#267ec5] h-full w-full bg-[url(/assets/images/8.jpg)] bg-cover bg-center flex flex-col justify-end items-center">
     <div class="flex flex-col md:flex-row uppercase font-bold space-y-8 space-x-16 font-[Sora]">
 
       <div class="flex space-x-2">
